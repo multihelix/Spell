@@ -17,7 +17,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Enter Spelling attempt here . . "
-        android:id="@+id/textView"
+        android:id="@+id/tv_spelling_attempt"
         android:layout_marginTop="110dp"
         android:textSize="25dp"
         android:layout_below="@+id/textView2"
@@ -32,7 +32,7 @@
         android:text="Check Spelling"
         android:id="@+id/button_check_spelling"
         android:textSize="20dp"
-        android:layout_below="@+id/textView"
+        android:layout_below="@+id/tv_spelling_attempt"
         android:layout_centerHorizontal="true" />
 
     <Button
