@@ -1,5 +1,5 @@
 package spell.multihelix.com.spell;
-
+//This is my attempt at producing a spelling aid application to help my kids learn their school spellins
 import android.content.Intent;
 import android.os.Bundle;
 import android.speech.tts.TextToSpeech;
